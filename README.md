@@ -8,7 +8,8 @@
 
 🥑 Portfolio Website: <a href="https://kankunnawat.netlify.app/">Kan</a>
 
-<a href="https://app.daily.dev/kankunnawat"><img src="https://api.daily.dev/devcards/a41ddb5af690466c99189d364929a8dd.png?r=6es" width="400" alt="kan's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/kankunnawat/kankunnawat/blob/main/devcard.svg" width="400" alt="Kan Kunnawat's Dev Card"/></a>
+
 
 
 
