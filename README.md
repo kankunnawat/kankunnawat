@@ -4,7 +4,9 @@
 
 🌱 I’m learning blockchain and web3 stack
 
-📫 How to reach me: Linkedin <a href="https://www.linkedin.com/in/kankunnawat/">Kan Kunnawat</a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/kankunnawat/">Kan Kunnawat</a>
+
+🥑 Portfolio Website: <a href="https://kankunnawat.netlify.app/">Kan</a>
 
 <a href="https://app.daily.dev/kankunnawat"><img src="https://api.daily.dev/devcards/a41ddb5af690466c99189d364929a8dd.png?r=6es" width="400" alt="kan's Dev Card"/></a>
 
