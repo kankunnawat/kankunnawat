@@ -2,7 +2,7 @@
 
 💼 I’m currently working at Sirius as an iOS Developer
 
-🌱 I’m learning blockchain and web3 stack
+🌱 I love solving challenging problems
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/kankunnawat/">Kan Kunnawat</a>
 
