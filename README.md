@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💼 I’m currently working at Sirius as an iOS Developer
+💼 I’m currently working at Arise By Infinitas as an iOS Developer
 
 🌱 I love solving challenging problems
 
